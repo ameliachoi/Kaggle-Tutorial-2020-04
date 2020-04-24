@@ -6,3 +6,5 @@
 
 - 2020-04-21 <br>
 [[무작정 kaggle 따라하기] Titanic - Exploratory Data Analysis](https://www.kaggle.com/jinameliachoi/tutorial-titanic-exploratory-data-analysis)
+
+[[[무작정 kaggle 따라하기] EDA To Prediction (DieTanic)](https://www.kaggle.com/jinameliachoi/tutorial-eda-to-prediction-dietanic)
