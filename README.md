@@ -13,3 +13,6 @@
 
 - 2020-04-27 <br>
 [[무작정 kaggle 따라하기] Interactive Porto Insights (Plot.ly)](https://www.kaggle.com/jinameliachoi/tutorial-interactive-porto-insights-plot-ly)
+
+- 2020-04-29 <br>
+[[무작정 kaggle 따라하기] Simple logistic model - PORTO]()
