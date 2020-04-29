@@ -12,4 +12,4 @@
 [[무작정 kaggle 따라하기] EDA To Prediction (DieTanic)](https://www.kaggle.com/jinameliachoi/tutorial-eda-to-prediction-dietanic)
 
 - 2020-04-27 <br>
-[[무작정 kaggle 따라하기] Interactive Porto Insights (Plot.ly)](https://www.kaggle.com/jinameliachoi/tutorial-interactive-porto-insights-plot-ly)
+[[무작정 kaggle 따라하기] Porto Seguro - XGboost CV](---)
