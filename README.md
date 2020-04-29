@@ -12,4 +12,7 @@
 [[무작정 kaggle 따라하기] EDA To Prediction (DieTanic)](https://www.kaggle.com/jinameliachoi/tutorial-eda-to-prediction-dietanic)
 
 - 2020-04-27 <br>
-[[무작정 kaggle 따라하기] Porto Seguro - XGboost CV](---)
+[[무작정 kaggle 따라하기] Simple logistic model - PORTO / 미완성](---)
+
+- 2020-04-30 <br>
+[[무작정 kaggle 따라하기] Porto Seguro - XGboost CV / 미완성](---)
