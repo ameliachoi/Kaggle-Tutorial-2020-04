@@ -27,6 +27,6 @@
 
 - 2020-05-06  
 
-[무작정 kaggle 따라하기] COVID-19 RandomForest Forecasting
+[[무작정 kaggle 따라하기] COVID-19 RandomForest Regressor](https://www.kaggle.com/jinameliachoi/tutorial-covid-19-randomforest-regressor)
 
 
