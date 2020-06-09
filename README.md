@@ -1,8 +1,8 @@
 ## Kaggle 무작정 따라하기
 
 *이유한 님의 [kaggle korea - kaggle study kernel curriculum](https://kaggle-kr.tistory.com/32)을 참고하였습니다.*
-
-*대부분 커리큘럼을 따르나, 독특한 dataset 발견 시 별도로 연습합니다...!*
+<br>
+*대부분 커리큘럼을 따르나, issue가 있는 dataset의 경우 별도로 연습합니다!*
 
 ---
 
